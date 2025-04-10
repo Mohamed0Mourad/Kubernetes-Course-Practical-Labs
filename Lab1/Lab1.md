@@ -8,7 +8,7 @@
 This configuration demonstrates a Kubernetes pod with:
 - Main Nginx container with liveness probe
 - Sidecar logging container
-- Both emptyDir and NFS volume types
+- Both emptyDir and NFS volume types.
 
 ## 🛠️ Prerequisites
 
